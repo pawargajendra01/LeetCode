@@ -4,8 +4,7 @@ class Solution {
         for(int i=0;i<k;i++){
             sum=sum+nums[i]; 
         }
-        double temp = sum/k;
-        double result = temp;
+        double result = sum/k;
         for(int j=k;j<nums.length;j++){
             sum += nums[j] - nums[j-k];
             double avg =sum/k;
