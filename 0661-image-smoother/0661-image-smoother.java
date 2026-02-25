@@ -7,8 +7,8 @@ class Solution {
             for (int j = 0; j < c; j++) {
                 int sum = 0;
                 int count = 0;
-                for (int x = i-1; x <= i+1; x++) {
-                    for (int y = j-1; y <= j+1; y++) {
+                for (int x = i - 1; x <= i + 1; x++) {
+                    for (int y = j - 1; y <= j + 1; y++) {
                         if (x >= 0 && x < r && y >= 0 && y < c) {
                             sum += img[x][y];
                             count++;
