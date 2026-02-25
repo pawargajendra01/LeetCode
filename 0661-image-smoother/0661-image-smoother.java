@@ -3,8 +3,8 @@ class Solution {
         int[][] arr = new int[img.length][img[0].length];
         int r = img.length;
         int c = img[0].length;
-        for (int i = 0; i < img.length; i++) {
-            for (int j = 0; j < img[0].length; j++) {
+        for (int i = 0; i < r; i++) {
+            for (int j = 0; j < c; j++) {
                 int sum = 0;
                 int count = 0;
                 for (int x = i-1; x <= i+1; x++) {
@@ -15,8 +15,7 @@ class Solution {
                         }
                     }
                 }
-                int avg = sum / count;
-                arr[i][j] = avg;
+                arr[i][j] = sum / count;
             }
         }
         return arr;
