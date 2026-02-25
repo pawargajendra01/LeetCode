@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pawargajendra01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0485-max-consecutive-ones](https://github.com/pawargajendra01/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/pawargajendra01/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/pawargajendra01/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pawargajendra01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/pawargajendra01/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pawargajendra01/LeetCode/tree/master/0605-can-place-flowers) |
 ## Counting Sort
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/pawargajendra01/LeetCode/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pawargajendra01/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
