@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/pawargajendra01/LeetCode/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/pawargajendra01/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/pawargajendra01/LeetCode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/pawargajendra01/LeetCode/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pawargajendra01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pawargajendra01/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pawargajendra01/LeetCode/tree/master/0016-3sum-closest) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/pawargajendra01/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
