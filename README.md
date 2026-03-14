@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/pawargajendra01/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/pawargajendra01/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/pawargajendra01/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/pawargajendra01/LeetCode/tree/master/0819-most-common-word) |
 ## Simulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/pawargajendra01/LeetCode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/pawargajendra01/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/pawargajendra01/LeetCode/tree/master/0819-most-common-word) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/pawargajendra01/LeetCode/tree/master/0561-array-partition) |
+| [0819-most-common-word](https://github.com/pawargajendra01/LeetCode/tree/master/0819-most-common-word) |
 ## Matrix
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/pawargajendra01/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/pawargajendra01/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/pawargajendra01/LeetCode/tree/master/0819-most-common-word) |
 | [1154-day-of-the-year](https://github.com/pawargajendra01/LeetCode/tree/master/1154-day-of-the-year) |
 ## Math
 |  |
