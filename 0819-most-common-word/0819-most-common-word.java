@@ -12,7 +12,7 @@ class Solution {
         for (int i = 0; i < paragraph.length(); i++) {
 
             char c = Character.toLowerCase(paragraph.charAt(i));
-            if (c != ' ' && c != '!' && c != '?' && c != '\'' && c != ',' && c != ';' && c != '.') {
+            if (Character.isLetter(c)) {
                 sb.append(c);
             }
 
