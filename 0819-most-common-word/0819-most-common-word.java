@@ -16,19 +16,14 @@ class Solution {
             if (Character.isLetter(c)) {
                 sb.append(c);
             }
-            else if (sb.length() > 0) {
-                str = sb.toString();
-                if (!set.contains(str)) {
-                    map.put(str, map.getOrDefault(str, 0) + 1);
+            if (i == paragraph.length() - 1 || !Character.isLetter(c)) {
+                if (sb.length() > 0){
+                    str = sb.toString();
+                    if (!set.contains(str)) {
+                        map.put(str, map.getOrDefault(str, 0) + 1);
+                    }
+                    sb.setLength(0);
                 }
-                sb.setLength(0);
-            }
-            if (i == paragraph.length() - 1 && Character.isLetter(c)) {
-                str = sb.toString();
-                if (!set.contains(str)) {
-                    map.put(str, map.getOrDefault(str, 0) + 1);
-                }
-                sb.setLength(0);
             }
         }
 
