@@ -11,9 +11,7 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             int sum = Integer.MAX_VALUE;
             for (int j = 0; j < arrayList.size(); j++) {
-                if (Math.abs(i - arrayList.get(j)) < sum) {
-                    sum = Math.abs(i - arrayList.get(j));
-                }
+                    sum = Math.min(sum,Math.abs(i - arrayList.get(j)));
             }
             array[i] = sum;
         }
