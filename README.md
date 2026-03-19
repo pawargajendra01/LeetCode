@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/pawargajendra01/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/pawargajendra01/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/pawargajendra01/LeetCode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/pawargajendra01/LeetCode/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/pawargajendra01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/pawargajendra01/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pawargajendra01/LeetCode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/pawargajendra01/LeetCode/tree/master/0860-lemonade-change) |
 ## Counting Sort
 |  |
 | ------- |
