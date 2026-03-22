@@ -12,7 +12,7 @@ class Solution {
                     right--;
                 }
         }
-        arr[s.length()]=left;
+        arr[s.length()]=right;
         return arr;
     }
 }
