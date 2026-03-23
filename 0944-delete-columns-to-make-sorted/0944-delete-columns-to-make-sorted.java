@@ -14,19 +14,19 @@
 }*/
 class Solution {
     public int minDeletionSize(String[] strs) {
+        int n = strs.length;
+        int m = strs[0].length();
         int count = 0;
-        int rowCount = strs.length;
-        int colCount = strs[0].length();
-        
-        for (int i = 0; i < colCount; i++) {
-            // Optimization: Start with the first character and compare downward
-            for (int j = 1; j < rowCount; j++) {
-                if (strs[j].charAt(i) < strs[j-1].charAt(i)) {
+
+        for (int col = 0; col < m; col++) {
+            for (int row = 1; row < n; row++) {
+                if (strs[row].charAt(col) < strs[row - 1].charAt(col)) {
                     count++;
                     break;
                 }
             }
         }
+
         return count;
     }
 }
