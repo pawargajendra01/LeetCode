@@ -18,9 +18,16 @@ class Solution {
         int m = strs[0].length();
         int count = 0;
 
+        // Pre-convert strings to char arrays to avoid .charAt() overhead
+        char[][] grid = new char[n][m];
+        for (int i = 0; i < n; i++) {
+            grid[i] = strs[i].toCharArray();
+        }
+
         for (int col = 0; col < m; col++) {
             for (int row = 1; row < n; row++) {
-                if (strs[row].charAt(col) < strs[row - 1].charAt(col)) {
+                // Accessing raw char arrays is faster than calling String methods
+                if (grid[row][col] < grid[row - 1][col]) {
                     count++;
                     break;
                 }
