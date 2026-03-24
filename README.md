@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/pawargajendra01/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/pawargajendra01/LeetCode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pawargajendra01/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/pawargajendra01/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/pawargajendra01/LeetCode/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/pawargajendra01/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/pawargajendra01/LeetCode/tree/master/0929-unique-email-addresses) |
+| [0953-verifying-an-alien-dictionary](https://github.com/pawargajendra01/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/pawargajendra01/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/pawargajendra01/LeetCode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/pawargajendra01/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/pawargajendra01/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1154-day-of-the-year](https://github.com/pawargajendra01/LeetCode/tree/master/1154-day-of-the-year) |
 ## Math
 |  |
