@@ -1,4 +1,4 @@
-/*class Solution {
+class Solution {
     public int[] sortedSquares(int[] nums) {
         int left=0;
         int right=nums.length-1;
@@ -17,14 +17,5 @@
             }
         }
         return arr;
-    }
-}*/
-class Solution {
-    public int[] sortedSquares(int[] nums) {
-        for(int i=0;i<nums.length;i++){
-            nums[i]*=nums[i];
-        }
-        Arrays.parallelSort(nums);
-        return nums;
     }
 }
