@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pawargajendra01/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawargajendra01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/pawargajendra01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/pawargajendra01/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pawargajendra01/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/pawargajendra01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1154-day-of-the-year](https://github.com/pawargajendra01/LeetCode/tree/master/1154-day-of-the-year) |
 ## Sliding Window
 |  |
