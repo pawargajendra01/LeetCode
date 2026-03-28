@@ -7,10 +7,7 @@ class Solution {
                     for(int k=j-1;k>=0;k--){
                         if(board[i][k]=='B'){
                             break;
-                        }else if(board[i][k]=='.'){
-
-                        }
-                        else{
+                        }else if(board[i][k]=='p'){
                             count++;
                             break;
                         }
@@ -18,10 +15,7 @@ class Solution {
                     for(int k=j+1;k<8;k++){
                         if(board[i][k]=='B'){
                             break;
-                        }else if(board[i][k]=='.'){
-
-                        }
-                        else{
+                        }else if(board[i][k]=='p'){
                             count++;
                             break;
                         }
@@ -29,10 +23,7 @@ class Solution {
                     for(int k=i-1;k>=0;k--){
                         if(board[k][j]=='B'){
                             break;
-                        }else if(board[k][j]=='.'){
-
-                        }
-                        else{
+                        }else if(board[k][j]=='p'){
                             count++;
                             break;
                         }
@@ -40,10 +31,7 @@ class Solution {
                     for(int k=i+1;k<8;k++){
                         if(board[k][j]=='B'){
                             break;
-                        }else if(board[k][j]=='.'){
-
-                        }
-                        else{
+                        }else if(board[k][j]=='p'){
                             count++;
                             break;
                         }
