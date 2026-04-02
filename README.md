@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/pawargajendra01/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/pawargajendra01/LeetCode/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pawargajendra01/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/pawargajendra01/LeetCode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pawargajendra01/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Counting Sort
 |  |
 | ------- |
