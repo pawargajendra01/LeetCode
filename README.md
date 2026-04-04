@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pawargajendra01/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1037-valid-boomerang](https://github.com/pawargajendra01/LeetCode/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/pawargajendra01/LeetCode/tree/master/1046-last-stone-weight) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/pawargajendra01/LeetCode/tree/master/0506-relative-ranks) |
+| [1046-last-stone-weight](https://github.com/pawargajendra01/LeetCode/tree/master/1046-last-stone-weight) |
 ## Greedy
 |  |
 | ------- |
