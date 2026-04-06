@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1037-valid-boomerang](https://github.com/pawargajendra01/LeetCode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/pawargajendra01/LeetCode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawargajendra01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pawargajendra01/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/pawargajendra01/LeetCode/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/pawargajendra01/LeetCode/tree/master/0819-most-common-word) |
+| [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
 ## Matrix
 |  |
 | ------- |
