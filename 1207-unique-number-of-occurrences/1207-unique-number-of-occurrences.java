@@ -8,6 +8,6 @@ class Solution {
         for(int ar:arr){
             set.add(map.get(ar));
         }
-        return !(map.size()>set.size());
+        return map.size()==set.size();
     }
 }
