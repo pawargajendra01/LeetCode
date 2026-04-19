@@ -1,6 +1,5 @@
 class Solution {
     public int oddCells(int m, int n, int[][] indices) {
-        int[][] arr = new int[m][n];
         int[] row = new int[m];
         int[] column = new int[n];
 
@@ -8,15 +7,10 @@ class Solution {
             row[indices[i][0]]++;
             column[indices[i][1]]++;
         }
+        int count=0;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                arr[i][j]=row[i]+column[j];
-            }
-        }
-        int count = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (arr[i][j] % 2 != 0) {
+                if((row[i]+column[j])%2!=0){
                     count++;
                 }
             }
