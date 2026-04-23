@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/pawargajendra01/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/pawargajendra01/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/pawargajendra01/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 ## Simulation
 |  |
 | ------- |
