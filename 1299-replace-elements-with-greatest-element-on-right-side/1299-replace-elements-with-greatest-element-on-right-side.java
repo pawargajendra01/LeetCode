@@ -5,7 +5,7 @@ class Solution {
         for(int i=n-1;i>=0;i--){
             int current = arr[i];
             arr[i]=max;
-            max=Math.max(current,max);
+            if (current > max) max = current;
         }
         return arr;
     }
