@@ -9,7 +9,7 @@ class Solution {
         for (int i = 0; i < nums.length; i+=2) {
             int freq = nums[i];
             int val = nums[i+1];
-            java.util.Arrays.fill(arr, num, num + freq, val);
+            Arrays.fill(arr, num, num + freq, val);
             num += freq;
         }
         return arr;
