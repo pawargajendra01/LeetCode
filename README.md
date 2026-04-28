@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pawargajendra01/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pawargajendra01/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/pawargajendra01/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
+| [1331-rank-transform-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/pawargajendra01/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/pawargajendra01/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/pawargajendra01/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pawargajendra01/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/pawargajendra01/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
