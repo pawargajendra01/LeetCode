@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pawargajendra01/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/pawargajendra01/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/pawargajendra01/LeetCode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/pawargajendra01/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/pawargajendra01/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/pawargajendra01/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawargajendra01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pawargajendra01/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pawargajendra01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/pawargajendra01/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Depth-First Search
 |  |
 | ------- |
