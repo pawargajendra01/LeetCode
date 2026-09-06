@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/gajendrapawar01/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gajendrapawar01/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/pawargajendra01/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gajendrapawar01/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pawargajendra01/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gajendrapawar01/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
